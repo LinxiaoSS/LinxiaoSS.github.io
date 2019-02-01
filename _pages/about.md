@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Linxiao Shen is now a PhD candidate in the Electrical and Computer Engineering Department of the University of Texas at Austin. He is now in Dr. Nan Sun's research group. Mr. Shen received the B.S. degree from Fudan University, Shanghai, China in 2014. His doctoral work involves the design of energy-efficient sensor readout circuits, mainly for biomedical circuits. He was an intern with analog group at Silicon Laboratories Inc. from Jun. to Aug. 2018, working on low-power RC oscillator design. 
+
+Mr. Shen is recipient of the 2018-2019 IEEE Solid-State Circuits Society Predoctoral Achievement Award, 2012 National scholarship, and 2011 Samsung Fellowship. He has interned at Silicon Laborotories Inc. He has served as a reviewer for IEEE International Symposium on Circuits and Systems (ISCAS), IEEE transactions on Circuits and System I/II (TCAS-I/II). 
+
+
 
 A data-driven personal website
 ======
