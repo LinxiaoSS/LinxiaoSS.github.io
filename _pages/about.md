@@ -21,7 +21,7 @@ News
 
 * 01/2019: Two co-authored CICC paper get accpted!
 
-* 12/2018: Linxiao won IEEE Solid-State Circuits Society Predoctoral Achievement Award. Congratulations!
+* 12/2018: Congradulates to Linxiao Shen for wining the IEEE Solid-State Circuits Society Predoctoral Achievement Award!
 
 * 10/2018: ISSCC paper on Continuous-Time SAR ADC gets accepted. Cheers!
 
@@ -31,3 +31,4 @@ News
 
 * 12/2017: JSSC paper on low-noise front-end amplifier gets accepted. Cheers!
 
+* 06/2017: Linxiao presented his work on low noise front-end amplifier at VLSI symposium 2017, Kyoto, JPN
