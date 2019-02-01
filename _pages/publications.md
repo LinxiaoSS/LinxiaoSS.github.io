@@ -24,7 +24,7 @@ Journal Papers
      
  * 2018    
      
- ### J1. [A 1-V 0.25-uW Inverter Stacking Amplifier With 1.07 Noise Efficiency Factor](https://ieeexplore.ieee.org/document/8252872)
+  ### J1. [A 1-V 0.25-uW Inverter Stacking Amplifier With 1.07 Noise Efficiency Factor](https://ieeexplore.ieee.org/document/8252872)
      * **Linxiao Shen**, Nanshu Lu, and Nan Sun
      * IEEE Journal of Solid-State Circuits (JSSC), 2018
 
