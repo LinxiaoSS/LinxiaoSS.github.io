@@ -22,7 +22,7 @@ Journal Papers
      * Abhishek Mukherjee, Miguel Gandara, Biying Xu, Shaolan Li, **Linxiao Shen**, and Nan Sun
      * submitted to IEEE Solid-State Circuit Letter (SSC-L)
      
- * 2018    
+* 2018    
      
   ### J1. [A 1-V 0.25-uW Inverter Stacking Amplifier With 1.07 Noise Efficiency Factor](https://ieeexplore.ieee.org/document/8252872)
      * **Linxiao Shen**, Nanshu Lu, and Nan Sun
