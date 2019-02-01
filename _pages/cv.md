@@ -7,53 +7,72 @@ redirect_from:
   - /resume
 ---
 
+[PDF format EN](/cv_linxiao/cv_linxiao.pdf){: .share-button}
+
 {% include base_path %}
+
+<h1 class="western" align="center"><b>Yibo Lin</b></h1>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">yibolin at  utexas.edu | <a href="http://www.yibolin.com/">http://www.yibolin.com</a> | <a href="https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en">Google Scholar</a></span></p>
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Fudan University, Shanghai, P.R.China, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since Spring 2015: Graduate Research Assistant
+  * ECE department, University of Texas at Austin 
+  * Integrated analog front-end circuit design for biomedical sensor interface
+  * Supervisor: Professor [Nan Sun](https://www.cerc.utexas.edu/~nansun/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Internship
+  * Silicon laboratory Inc., TX, USA
+  * Low-power clock reference design
+  * Manager: Dr. Dazhi Wei
   
-Skills
+Teaching experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Fall 2017: Guest Lecture 
+  * EE382M: Analog Integrated Circuit Design
+  
+* Spring 2017: Guest Lecture 
+  * EE382M: Data Converter
+  
+* Fall 2016: Guest Lecture 
+  * EE382M: Analog Integrated Circuit Design
+  
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+    {% include publications_cv.md %}
   
-Talks
+Awards and Honors
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Predoctoral Achievement Award, IEEE Solid-State Circuit Soceity, 2019
+* Top-10 excellent student Awards, Fudan University,2013
+* National Scholarship, Fudan University, 2012 
+* Samsung Scholarship, Fudan University, 2011 
+
+Related Courses 
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* EE382M: VLSI I
+  * Prof. David Z. Pan
+* EE382M: Analog Integrated Circuit Design 
+  * Prof. Nan Sun
+* EE382V: Radio-Frequency Integrated Circuit Design
+  * Prof. Ranjit Gharpurey 
+* EE382M: VLSI II 
+  * Prof. Mark McDermott
+* EE382M: Data Converter
+  * Prof. Nan Sun 
+* EE382M: Analog Filter and Oversampling Data Converter
+  * Dr. Ramin Zanbaghi
+* EE382N: High Speed Computer Arithmetic
+  * Prof. EARL E. SWARTZLANDER
+* EE394: Power Electronic Devices and Systems
+  * Dr. Michael P. Flynn
+* EE396K: Nano-scale Devices
+  * Prof. Jack Lee
+* EE382V: Bio-instrumention - I 
+  * Prof. John Pearce
