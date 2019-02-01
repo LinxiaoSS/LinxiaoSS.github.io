@@ -9,14 +9,13 @@ redirect_from:
 
 [PDF format EN](/cv_linxiao/LinxiaoSHEN_201902.pdf){: .share-button}
 
-{% include base_path %}
-
 <h1 class="western" align="center"><b>Linxiao Shen</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">yibolin at  utexas.edu | <a href="http://www.yibolin.com/">http://www.yibolin.com</a> | <a href="https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en">Google Scholar</a></span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">lynn.shenlx at  utexas.edu | <a href="http://www.linxiaoshen.com/">http://www.linxiaoshen.com</a> | <a href="https://scholar.google.com/citations?user=UnQWfpoAAAAJ&hl=en&authuser=1">Google Scholar</a></span></p>
 
 Education
 ======
+* Ph.D Candidate in the University of Texas at Austin, Austin, Texas
 * B.S. in Fudan University, Shanghai, P.R.China, 2014
 
 Work experience
@@ -24,7 +23,7 @@ Work experience
 * Since Spring 2015: Graduate Research Assistant
   * ECE department, University of Texas at Austin 
   * Integrated analog front-end circuit design for biomedical sensor interface
-  * Supervisor: Professor [Nan Sun](https://www.cerc.utexas.edu/~nansun/)
+  * Supervisor: Prof. [Nan Sun](https://www.cerc.utexas.edu/~nansun/)
 
 * Summer 2018: Internship
   * Silicon laboratory Inc., TX, USA
