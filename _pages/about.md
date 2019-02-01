@@ -10,13 +10,13 @@ redirect_from:
 
 Linxiao Shen is now a PhD candidate in the Electrical and Computer Engineering Department of the University of Texas at Austin. He is now in Dr. Nan Sun's research group. Mr. Shen received the B.S. degree from Fudan University, Shanghai, China in 2014. His doctoral work involves the design of energy-efficient sensor readout circuits, mainly for biomedical circuits. He was an intern with analog group at Silicon Laboratories Inc. from Jun. to Aug. 2018, working on low-power RC oscillator design. 
 
-Mr. Shen is recipient of the 2018-2019 IEEE Solid-State Circuits Society Predoctoral Achievement Award, 2012 National scholarship, and 2011 Samsung Fellowship. He has interned at Silicon Laborotories Inc. He has served as a reviewer for IEEE International Symposium on Circuits and Systems (ISCAS), IEEE transactions on Circuits and System I/II (TCAS-I/II). 
+Mr. Shen is recipient of the 2018-2019 IEEE Solid-State Circuits Society Predoctoral Achievement Award, 2012 National scholarship, and 2011 Samsung Fellowship. He has interned at Silicon Laborotories Inc. He has served as a reviewer for IEEE International Symposium on Circuits and Systems (ISCAS), IEEE Transactions on Circuits and System I/II (TCAS-I/II). 
 
 
 
 News
 ======
-12/2018: Linxiao received the 
+-12/2018: Linxiao received the 
 
 Getting started
 ======
