@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[PDF format EN](/cv_linxiao/cv_linxiao.pdf){: .share-button}
+[PDF format EN](/cv_linxiao/LinxiaoSHEN_201902.pdf){: .share-button}
 
 {% include base_path %}
 
