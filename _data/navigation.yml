@@ -13,7 +13,7 @@ main:
     url: /news/
     
   - title: "Awards"
-    url: /award/
+    url: /awards/
     
   - title: "CV"
     url: /cv/
