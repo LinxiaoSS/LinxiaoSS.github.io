@@ -13,21 +13,24 @@ Linxiao Shen is now a PhD candidate in the Electrical and Computer Engineering D
 Mr. Shen is recipient of the 2018-2019 IEEE Solid-State Circuits Society Predoctoral Achievement Award, 2012 National scholarship, and 2011 Samsung Fellowship. He has interned at Silicon Laborotories Inc. He has served as a reviewer for IEEE International Symposium on Circuits and Systems (ISCAS), IEEE Transactions on Circuits and System I/II (TCAS-I/II). 
 
 
-
-News
+Research Interests
 ======
 
-* 01/2019: One co-authored DAC paper gets accepted! 
-
-* 01/2019: Two co-authored CICC paper get accpted!
-
+Welcome to Linxiao Shen’s homepage. My research focuses on:
 * 12/2018: Congradulates to Linxiao Shen for wining the IEEE Solid-State Circuits Society Predoctoral Achievement Award!
 
 * 10/2018: ISSCC paper on Continuous-Time SAR ADC gets accepted. Cheers!
 
-* 10/2018: One co-authored ISSCC paper on Capacitance-to-Digital Converter gets accepted!
+* 12/2017: JSSC paper on low-noise front-end amplifier gets accepted. Cheers!
 
-* 08/2018: One co-authored ASSCC paper on VCO-based ADC gets accepted!
+* 06/2017: Linxiao presented his work on low noise front-end amplifier at VLSI symposium 2017, Kyoto, JPN
+
+News
+======
+
+* 12/2018: Congradulates to Linxiao Shen for wining the IEEE Solid-State Circuits Society Predoctoral Achievement Award!
+
+* 10/2018: ISSCC paper on Continuous-Time SAR ADC gets accepted. Cheers!
 
 * 12/2017: JSSC paper on low-noise front-end amplifier gets accepted. Cheers!
 
