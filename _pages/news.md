@@ -7,8 +7,6 @@ author_profile: true
 
 <br>
 
-News
-======
 
 * 01/2019: One co-authored DAC paper gets accepted! 
 
