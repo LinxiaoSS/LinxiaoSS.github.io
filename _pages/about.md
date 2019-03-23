@@ -18,7 +18,7 @@ Research Interests
 
 Welcome to Linxiao Shen’s homepage. My research focuses on:
 * Analog, mixed-signal, and RF integrated circuits;
-* Low power sensor interface, especially for biomedical applications
+* Low power sensor interface circuits, especially for biomedical applications
 
 News
 ======
