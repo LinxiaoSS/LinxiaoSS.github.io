@@ -11,6 +11,8 @@ author_profile: true
 
 * 03/2019: One co-authored paper gets accepted to 2019 **VLSI Symposium** on Circuits! 
 
+* 02/2019: **Linxiao passed his PhD qualification exam and officially became a PhD candidate! Cheers!**
+
 * 02/2019: Linxiao presented his work on Continuous-time SAR ADC at **ISSCC 2019**, CA, USA
 
 * 01/2019: One co-authored **DAC** paper gets accepted! 
