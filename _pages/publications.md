@@ -34,6 +34,14 @@ Conference Papers
 
 * 2019
 
+  ### C11. A 0.6-V Tail-Less Inverter Stacking Amplifier with 0.96 PEF and Chopping
+     * **Linxiao Shen**, Abhishek Mukherjee, Shaolan Li, Xiyuan Tang, Nanshu Lu, and Nan Sun
+     * 2019 IEEE Symposium on VLSI Circuits, Kyoto, 2019 (accepted)
+
+  ### C10. An Energy-Efficient Comparator with Dynamic Floating Inverter Pre-Amplifier
+     * Xiyuan Tang, Begum Kasap, **Linxiao Shen**, Xiangxing Yang, Wei Shi, and Nan Sun
+     * 2019 IEEE Symposium on VLSI Circuits, Kyoto, 2019 (accepted)
+
   ### C9. WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout
      * Biying Xu, Yibo Lin, Shaolan Li, **Linxiao Shen**, Nan Sun, and David Pan
      * Design Automation Conference (DAC), 2019 (accepted)
