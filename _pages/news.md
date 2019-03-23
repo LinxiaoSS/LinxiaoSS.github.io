@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 <br>
+* 03/2019: The work of high power efficient three-stage OTA with best PEF get accepted to 2019 VLSI Symposium on Circuits! 
 
+* 03/2019: One co-authored paper gets accepted to 2019 VLSI Symposium on Circuits! 
+
+* 02/2019: Linxiao presented his work on Continuous-time SAR ADC at ISSCC 2019, CA, USA
 
 * 01/2019: One co-authored DAC paper gets accepted! 
 
