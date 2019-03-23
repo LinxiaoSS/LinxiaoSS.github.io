@@ -11,7 +11,7 @@ redirect_from:
 
 <h1 class="western" align="center"><b>Linxiao Shen</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">lynn.shenlx at  utexas.edu | <a href="http://www.linxiaoshen.com/">http://www.linxiaoshen.com</a> | <a href="https://scholar.google.com/citations?user=UnQWfpoAAAAJ&hl=en&authuser=1">Google Scholar</a></span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">lynn.shenlx at  utexas.edu | <a href="http://cerc.utexas.edu/~linxiao/">http://cerc.utexas.edu/~linxiao/</a> | <a href="https://scholar.google.com/citations?user=UnQWfpoAAAAJ&hl=en&authuser=1">Google Scholar</a></span></p>
 
 Education
 ======
