@@ -20,7 +20,7 @@ Journal Papers
 
   ### J2. A 1 GS/s 20 MHz-BW Capacitive-Input Continuous-Time ∆Σ ADC Using a Novel Parasitic Pole-Free Fully Differential VCO
      * Abhishek Mukherjee, Miguel Gandara, Biying Xu, Shaolan Li, **Linxiao Shen**, and Nan Sun
-     * submitted to IEEE Solid-State Circuit Letter (SSC-L)
+     * IEEE Solid-State Circuit Letter (SSC-L), 2019
      
 * 2018    
      
@@ -36,35 +36,35 @@ Conference Papers
 
   ### C11. A 0.6-V Tail-Less Inverter Stacking Amplifier with 0.96 PEF and Chopping
      * **Linxiao Shen**, Abhishek Mukherjee, Shaolan Li, Xiyuan Tang, Nanshu Lu, and Nan Sun
-     * 2019 IEEE Symposium on VLSI Circuits, Kyoto, 2019 (accepted)
+     * 2019 IEEE Symposium on VLSI Circuits, Kyoto, 2019, to appear (accepted)
 
   ### C10. An Energy-Efficient Comparator with Dynamic Floating Inverter Pre-Amplifier
      * Xiyuan Tang, Begum Kasap, **Linxiao Shen**, Xiangxing Yang, Wei Shi, and Nan Sun
-     * 2019 IEEE Symposium on VLSI Circuits, Kyoto, 2019 (accepted)
+     * 2019 IEEE Symposium on VLSI Circuits, Kyoto, 2019,to appear (accepted)
 
   ### C9. WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout
      * Biying Xu, Yibo Lin, Shaolan Li, **Linxiao Shen**, Nan Sun, and David Pan
-     * Design Automation Conference (DAC), 2019 (accepted)
+     * Design Automation Conference (DAC), 2019, to appear (accepted)
       
   ### C8. A 0.025-mm2 0.8-V 78.5dB-SNDR VCO-based Sensor Readout Circuit in a Hybrid PLL- ΔΣM Structure
      * Shaolan Li, Wenda Zhao, Biying Xu, Xiangxing Yang, Xiyuan Tang, **Linxiao Shen**, Nanshu Lu, David Z. Pan, and Nan Sun
-     * Custom integrated circuits conference (CICC), 2019 (accepted)
+     * Custom integrated circuits conference (CICC), 2019, to appear (accepted)
       
   ### C7. A 10b 100MS/s SAR ADC with Reference Ripple Cancellation
      * Xiyuan Tang, Yi Shen, **Linxiao Shen**, Wenda Zhao, Zhangming Zhu, Visvesh Sathe, and Nan Sun
-     * Custom integrated circuits conference (CICC), 2019 (accepted)
+     * Custom integrated circuits conference (CICC), 2019, to appear (accepted)
       
   ### C6. Device Layer-Aware Analytical Placement for Analog Circuits
      * Biying Xu, Shaolan Li, Chak-Wa Pui, Derong Liu, **Linxiao Shen**, Yobo Lin, Nan Sun, and David Z. Pan
-     * IEEE International symposium of physical design (ISPD), 2019 (accepted)
+     * IEEE International symposium of physical design (ISPD), 2019, to appaer (accepted)
       
   ### C5. A 0.01mm2 25uW 2MS/s 74dB-SNDR Continuous-Time Pipelined-SAR ADC with 120fF Input Capacitor
      * **Linxiao Shen**, Yi Shen, Xiyuan Tang, Chen-Kai Hsu, Wei Shi, Shaolan Li, Wenda Zhao, Abhishek Mukherjee, and Nan Sun
-     * IEEE international Solid-State Circuits Conference (ISSCC), 2019 (accepted)
+     * IEEE international Solid-State Circuits Conference (ISSCC), 2019
       
   ### C4. A 16fJ/conversion-step Time-Domain Incremental Zoom Capacitance-to-Digital Converter
      * Xiyuan Tang, Shaolan Li, **Linxiao Shen**, Wenda Zhao, Xiangxing Yang, Randy Williams, Jiaxin Liu, Zhichao Tan, Neal Hall, and Nan Sun
-     * IEEE international Solid-State Circuits Conference (ISSCC), 2019 (accepted)  
+     * IEEE international Solid-State Circuits Conference (ISSCC), 2019
 
 * 2018
 
