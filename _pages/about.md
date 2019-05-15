@@ -22,6 +22,7 @@ Welcome to Linxiao Shen’s homepage. My research focuses on:
 
 News
 ======
+* 04/2019: **Congradulates to Linxiao Shen for wining the Graduate Continuing Fellowship from UT Austin!**
 
 * 03/2019: The work of **high power efficient three-stage OTA with best PEF** get accepted to 2019 **VLSI Symposium** on Circuits! 
 
@@ -30,5 +31,3 @@ News
 * 02/2019: Linxiao presented his work on Continuous-time SAR ADC at **ISSCC 2019**, CA, USA
 
 * 12/2018: **Congradulates to Linxiao Shen for wining the IEEE Solid-State Circuits Society Predoctoral Achievement Award!**
-
-* 10/2018: **ISSCC paper on Continuous-Time SAR ADC gets accepted. Cheers!**
