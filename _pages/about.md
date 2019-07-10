@@ -33,4 +33,4 @@ News
 * 12/2018: **Congradulates to Linxiao Shen for wining the IEEE Solid-State Circuits Society Predoctoral Achievement Award!**
 
 
-<p style="font-family: verdana;font-size: 12px;color: #333333;text-decoration: none;" ><a alt="Map IP Address" href="https://www.ip2map.com"><img border="0" alt="Map IP Address" src="https://www.ip2map.com/ip2map.gif"></a><br>Powered by <a alt="IP Address" href="https://www.ip2map.com" style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 12px;color: #0066CC;text-decoration: underline;">IP2Map.com</a></p>
+[URL=https://info.flagcounter.com/gJgr][IMG]https://s05.flagcounter.com/count2/gJgr/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/[/IMG][/URL]
