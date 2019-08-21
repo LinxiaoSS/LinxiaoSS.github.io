@@ -17,7 +17,7 @@ Education
 ======
 * Ph.D Candidate in the University of Texas at Austin, Austin, Texas
 * B.S. in Fudan University, Shanghai, P.R.China, 2014
-  * Ranked 1st and Graduated with the highest honor
+  * Ranked 1st (1/72) and Graduated with the highest honor
 
 Work experience
 ======
