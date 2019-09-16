@@ -7,6 +7,10 @@ author_profile: true
 
 <br>
 
+* 09/2019: **Congradulates to Linxiao Shen for passing his PhD defense exam! Cheers!**
+
+* 08/2019: The work of **Continuous-Time SAR ADC** has been accepted to JSSC!
+
 * 04/2019: **Congradulates to Linxiao Shen for wining the Graduate Continuing Fellowship from UT Austin!**
 
 * 03/2019: The work of **high power efficient three-stage OTA with best PEF** get accepted to 2019 **VLSI Symposium** on Circuits! 
