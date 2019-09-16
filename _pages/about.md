@@ -22,11 +22,13 @@ Welcome to Linxiao Shen’s homepage. My research focuses on:
 
 News
 ======
+* 09/2019: **Congradulates to Linxiao Shen for passing his PhD defense exam! Cheers!**
+
+* 08/2019: The work of **Continuous-Time SAR ADC** has been accepted to JSSC!
+
 * 04/2019: **Congradulates to Linxiao Shen for wining the Graduate Continuing Fellowship from UT Austin!**
 
 * 03/2019: The work of **high power efficient three-stage OTA with best PEF** get accepted to 2019 **VLSI Symposium** on Circuits! 
-
-* 02/2019: **Linxiao passed his PhD qualification exam and officially became a PhD candidate! Cheers!**
 
 * 02/2019: Linxiao presented his work on Continuous-Time SAR ADC at **ISSCC 2019**, CA, USA
 
