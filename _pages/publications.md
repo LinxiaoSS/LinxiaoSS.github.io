@@ -18,15 +18,48 @@ Journal Papers
 
 * 2019
 
-  ### J2. A 1 GS/s 20 MHz-BW Capacitive-Input Continuous-Time ∆Σ ADC Using a Novel Parasitic Pole-Free Fully Differential VCO
+ 
+
+
+
+
+
+* 2020
+  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
+     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+
+  ### J8 - [JSSC'20]. An Energy-Efficient Comparator with Dynamic Floating Inverter Pre-Amplifier
+     * Xiyuan Tang, **Linxiao Shen***, Begum Kasap, Xiangxing Yang, Wei Shi, Abhishek Mukherjee, David Pan, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(VLSI symposium invited)**.
+       
+  ### J7 - [JSSC'20]. A 10b 120MS/s SAR ADC with Reference Ripple Cancellation
+     * Yi Shen, Xiyuan Tang, **Linxiao Shen**, Wenda Zhao, Zhangming Zhu, Visvesh Sathe, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(CICC invited)**.
+     
+  ### J6 - [JSSC'20]. A 0.025-mm2 0.8-V 78.5dB-SNDR VCO-based Sensor Readout Circuit in a Hybrid PLL- ΔΣM Structure
+     * Wenda Zhao, Shaolan Li, Biying Xu, Xiangxing Yang, Xiyuan Tang, **Linxiao Shen**, Nanshu Lu, David Z. Pan, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(CICC invited)**.
+   
+* 2019
+
+  ### J5 - [JSSC'19]. A Second-Order Purely VCO-Based CT ΔΣ ADC using a Modified DPLL in 40nm CMOS
+     * Yi Zhong, Shaolan Li, Arindam Sanyal, Xiyuan Tang, **Linxiao Shen**, Siliang Wu and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC).
+ 
+  ### J4 - [AMT'19]. Modular and Reconfigurable Wireless E-Tatoos for Personalized Sensing
+     * Hyoyoung Jeong, Liu Wang, Taewoo Ha, Ruchika Mitbander, Xiangxing Yang, Zhaohe Dai, Shutao Qiao, **Linxiao Shen**, Nan Sun, Nanshu Lu
+     * Adv. Mater. Technol. 2019, 1900117. 
+ 
+  ### J2 - [SSCL'19]. A 1 GS/s 20 MHz-BW Capacitive-Input Continuous-Time ∆Σ ADC Using a Novel Parasitic Pole-Free Fully Differential VCO
      * Abhishek Mukherjee, Miguel Gandara, Biying Xu, Shaolan Li, **Linxiao Shen**, and Nan Sun
      * IEEE Solid-State Circuit Letter (SSC-L), 2019
      
 * 2018    
      
-  ### J1. [A 1-V 0.25-uW Inverter Stacking Amplifier With 1.07 Noise Efficiency Factor](https://ieeexplore.ieee.org/document/8252872)
+  ### J1 - [JSSC'18]. [A 1-V 0.25-uW Inverter Stacking Amplifier With 1.07 Noise Efficiency Factor](https://ieeexplore.ieee.org/document/8252872)
      * **Linxiao Shen**, Nanshu Lu, and Nan Sun
-     * IEEE Journal of Solid-State Circuits (JSSC), 2018
+     * IEEE Journal of Solid-State Circuits (JSSC), vol. 53, no. 3, pp. 896-905, March 2018.
 
  
 Conference Papers
