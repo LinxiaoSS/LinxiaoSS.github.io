@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <br>
+* 10/2019: Two collaborated works have been accepted to **2020 ISSCC**, cheeer!
 
 * 09/2019: **Congradulates to Linxiao Shen for passing his PhD defense exam! Cheers!**
 
