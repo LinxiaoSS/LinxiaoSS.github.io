@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Linxiao Shen is now a PhD candidate in the Electrical and Computer Engineering Department of the University of Texas at Austin. He is now in Dr. [Nan Sun](https://www.cerc.utexas.edu/~nansun/)'s research group. Mr. Shen received the B.S. degree from Fudan University, Shanghai, China in 2014. His doctoral work involves the design of energy-efficient sensor readout circuits, mainly for biomedical circuits. He was an intern with analog group at Silicon Laboratories Inc. from Jun. to Aug. 2018, working on low-power RC oscillator design. 
+Linxiao Shen received his Ph.D. degree in the Electrical and Computer Engineering Department of the University of Texas at Austin in 2019. He is now an analog/mixed-signal designer in Silicon Laboroteris Inc., mainly working on ultra-low-power MCU and its peripherals, including ultra-low power on-chip clock generation, ultra-low power power management circuits and systems design. He is also a researcher in Dr. [Nan Sun](https://www.cerc.utexas.edu/~nansun/)'s research group, leading the projects of high-speed ADC design and high-performance biomedical readout circuits design. Mr. Shen received the B.S. degree from Fudan University, Shanghai, China in 2014. 
 
-Mr. Shen is recipient of the 2018-2019 IEEE Solid-State Circuits Society Predoctoral Achievement Award, 2012 National scholarship, and 2011 Samsung Fellowship. He has interned at Silicon Laborotories Inc. He has served as a reviewer for IEEE Transactions on Circuits and System I/II (TCAS-I/II), IEEE Journal of Solid State Circuit (JSSC), Microelectronics Journal (MEJ), and IEEE International Symposium on Circuits and Systems (ISCAS). 
+Mr. Shen is recipient of the 2018-2019 IEEE Solid-State Circuits Society Predoctoral Achievement Award, 2019-2020 UT Austin Graduate Continuing Fellowship, 2012 Chinese National scholarship, and 2011 Samsung Fellowship. He has served as a reviewer for IEEE Journal of Solid State Circuit (JSSC), IEEE Transactions on Circuits and System I, Regular Papers (TCAS-I), IEEE Transactions on Circuits and System II: Express Briefs (TCAS-II), IEEE Transactions on Very-Large Scale Integrated Systems (TVLSI), Microelectronics Journal (MEJ), and IEEE International Symposium on Circuits and Systems (ISCAS). 
 
 
 Research Interests
 ======
 
 Welcome to Linxiao Shen’s homepage. My research focuses on:
-* Analog, mixed-signal, and RF integrated circuits;
-* Low power sensor interface circuits, especially for biomedical applications
+* Ultra-low-power sensor interface circuits and systems design
+* High-performance analog and mixed-signal circuits design
+* Power-management integrated circuits (PMICs) design for system-on-chip module
+* Ultra-high-speed transceiver, optical coherent transceiver, high-speed ADC
+
 
 News
 ======
