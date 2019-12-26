@@ -59,12 +59,12 @@ Patents
 * Till 2020
 
   ### P1. Inverter stacking amplifier
-      * **Linxiao Shen**, Nan Sun
-      * US application number 62/514,684.
+    * **Linxiao Shen**, Nan Sun
+    * US application number 62/514,684.
       
   ### P2. Continuous-time SAR ADC
-      * **Linxiao Shen**, Nan Sun
-      * US application pending.
+    * **Linxiao Shen**, Nan Sun
+    * US application pending.
 
  
 Conference Papers
