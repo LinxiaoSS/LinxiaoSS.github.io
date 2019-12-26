@@ -56,6 +56,8 @@ Journal Papers
 Patents
 ======
  
+* Till 2020
+
   ### P1. Inverter stacking amplifier
       * **Linxiao Shen**, Nan Sun
       * US application number 62/514,684.
