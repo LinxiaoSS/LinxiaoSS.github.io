@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /news/
+title: "Amplifier Survey"
+permalink: /Amplifier_survey/
 author_profile: true
 ---
 
