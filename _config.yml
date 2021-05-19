@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Linxiao Shen"
 title_separator          : "-"
 name                     : &name "Linxiao Shen"
-description              : &description "PhD candidate in UT Austin"
+description              : &description "Assistant Professor @Peking University"
 url                      : https://LinxiaoSS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LinxiaoSS/LinxiaoSS.github.io"
@@ -82,8 +82,8 @@ analytics:
 author: 
   name             : "Linxiao Shen"
   avatar           : "profile.png"
-  bio              : "PhD in UT Austin, Ultra-Low Power/High-performance Integrated Circuit Design"
-  location         : "Austin, TX"
+  bio              : "Assistant Professor @Peking University, Ultra-Low Power/High-performance Integrated Circuit Design"
+  location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=UnQWfpoAAAAJ&view_op=list_works&authuser=2"
   email            :
