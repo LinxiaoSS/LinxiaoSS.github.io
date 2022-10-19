@@ -6,9 +6,12 @@ author_profile: true
 ---
 
 <br>
-* 10/2022: **Our paper "" is accepted to ISSCC 2022! Congratulations to Jihang! We will present the paper in Feb. 2022, and welcome to our Session! **
 
-* 01/2022: Our paper "" is accepted to ISCAS 2022! Congrats Xinhang! 
+* 10/2022: **Our paper about High-performance CDC is accepted to ISSCC 2022! Congratulations to Jihang! We will present the paper in Feb. 2022, and welcome to our Session! **
+
+* 09/2022: Welcome Guoqiang Li to join Shen Lab! Cheers!
+
+* 01/2022: Our paper about high-performance RxO is accepted to ISCAS 2022! Congrats Xinhang! 
 
 * 01/2022: Welcome Jiajia Cui to join Shen Lab! Cheers!
 
@@ -22,7 +25,7 @@ author_profile: true
 
 * 10/2019: Two collaborated works have been accepted to **2020 ISSCC**, cheeer!
 
-* 09/2019: **Congradulates to Linxiao Shen for passing his PhD defense exam! Cheers!**
+* 09/2019: Congradulates to Linxiao Shen for passing his PhD defense exam! Cheers!**
 
 * 08/2019: The work of **Continuous-Time SAR ADC** has been accepted to JSSC!
 
