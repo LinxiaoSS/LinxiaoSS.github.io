@@ -17,30 +17,30 @@ Journal Papers
 ======
 
 * 2022
-  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
-     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
-     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+  ### J15 - [O-JSSC'21]. A 3.7 mW 12.5 MHz 81dB-SNDR 4th-Order Continuous-time DSM with Single-OTA and 2nd-Order Noise-shaping SAR
+     * Lu Jie, Xiyuan Tang, Jiaxin Liu, **Linxiao Shen**, Shaolan Li, Nan Sun, and Michael P Flynn
+     *  _IEEE Open Journal of the Solid-State Circuits Society (O-JSSC)_, 2022
 
-  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
-     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
-     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+* 2021
+  ### J14 - [JSSC'20]. A software-defined always-on system with 57–75-nW wake-up function using asynchronous clock-free pipelined event-driven architecture and time-shielding level-crossing ADC
+     * Zhixuan Wang, Hao Zhang, Yihan Zhang, **Linxiao Shen**, Jiayoon Ru, Haitao Fan, Zhichao Tan, Yangyuan Wang, Le Ye, and Ru Huang
+     * _IEEE Journal of Solid-State Circuits (JSSC)_, vol. 56, no. 9, pp. 2804-2816, Sept. 2021
 
-  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
-     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
-     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+  ### J13 - [TCAS-I'21]. The challenges and emerging technologies for low-power artificial intelligence IoT systems
+     * Le Ye, Zhixuan Wang, Ying Liu, Peiyu Chen, Heyi Li, Hao Zhang, Meng Wu, Wei He, **Linxiao Shen**, Yihan Zhang, Zhichao Tan, Yangyuan Wang, and Ru Huang
+     * _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 68, no. 12, pp. 4821-4834, Dec. 2021
 
-  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
-     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
-     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+  ### J12 - [JSSC'21]. A 148-nW reconfigurable event-driven intelligent wake-up system for AIoT nodes using an asynchronous pulse-based feature extractor and a convolutional neural network
+     * Zhixuan Wang, Ying Liu, Peng Zhou, Zhichao Tan, Haitao Fan, Yihan Zhang, **Linxiao Shen**, Jiayoon Ru, Yangyuan Wang, Le Ye, and Ru Huang
+     *  _IEEE Journal of Solid-State Circuits (JSSC)_, vol. 56, no. 11, pp. 3274-3288, Nov. 2021.
 
-  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
-     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
-     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+  ### J11 - [O-JSSC'21]. An overview of noise-shaping SAR ADC: From fundamentals to the frontier
+     * Lu Jie, Xiyuan Tang, Jiaxin Liu, **Linxiao Shen**, Shaolan Li, Nan Sun, and Michael P Flynn
+     *  _IEEE Open Journal of the Solid-State Circuits Society (O-JSSC)_, vol. 1, pp. 149-161, 2021.
 
-  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
-     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
-     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
-
+  ### J10 - [JSSC'21]. Energy-Efficient CMOS Humidity Sensors Using Adaptive Range-Shift Zoom CDC and Power-Aware Floating Inverter Amplifier Array
+     * Heyi Li, Zhichao Tan, Yuanxin Bao, Han Xiao, Hao Zhang, Kaixuan Du, **Linxiao Shen**, Jiayoon Ru, Yihan Zhang, Le Ye, and Ru Huang
+     * _IEEE Journal of Solid-State Circuits (JSSC)_, vol. 56, no. 12, pp. 3560-3572, Dec. 2021.
 
 * 2020
   ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
@@ -48,7 +48,7 @@ Journal Papers
      * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
 
   ### J8 - [JSSC'20]. An Energy-Efficient Comparator with Dynamic Floating Inverter Pre-Amplifier
-     * Xiyuan Tang, **Linxiao Shen***, Begum Kasap, Xiangxing Yang, Wei Shi, Abhishek Mukherjee, David Pan, and Nan Sun
+     * Xiyuan Tang, **Linxiao Shen* (Corresponding)**, Begum Kasap, Xiangxing Yang, Wei Shi, Abhishek Mukherjee, David Pan, and Nan Sun
      * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(VLSI symposium invited)**.
        
   ### J7 - [JSSC'20]. A 10b 120MS/s SAR ADC with Reference Ripple Cancellation
@@ -82,11 +82,11 @@ Journal Papers
 Patents
 ======
  
-* Till 2020
+* Till 2022
 
   ### P1. Inverter stacking amplifier
      * **Linxiao Shen**, Nan Sun
-     * US application number 62/514,684.
+     * US patent number 11223335
       
   ### P2. Continuous-time SAR ADC
      * **Linxiao Shen**, Nan Sun
@@ -95,6 +95,34 @@ Patents
  
 Conference Papers
 ======
+
+* 2022
+
+  ### C19 - [CICC'22]. A 77μW 115dB-Dynamic-Range 586fA-Sensitivity Current-Domain Continuous-Time Zoom ADC with Pulse-Width-Modulated Resistor DAC and Background Offset Compensation Scheme
+     * Hao Zhang, **Linxiao Shen**, Shichuang Zhang, Heyi Li, Yihan Zhang, Zhichao Tan, Ru Huang, Le Ye
+     * 2022 IEEE Custom Integrated Circuits Conference (CICC), 2022
+
+  ### C18 - [ISCAS'22]. A 13.5b-ENOB Second-Order Noise-Shaping SAR with PVT-Robust Closed-Loop Dynamic Amplifier
+     * Xinhang Xu, Siyuan Ye, Jihang Gao, **Linxiao Shen**, Le Ye
+     * IEEE international symposium on Circuits and Systems (ISCAS), 2022.
+
+  ### C17 - [ISSCC'22]. An 82nW 0.53 pJ/SOP Clock-Free Spiking Neural Network with 40µs Latency for AloT Wake-Up Functions Using Ultimate-Event-Driven Bionic Architecture and Computing-in-Memory Technique
+     * Ying Liu, Zhixuan Wang, Wei He, **Linxiao Shen**, Yihan Zhang, Peiyu Chen, Meng Wu, Hao Zhang, Peng Zhou, Jinguang Liu, Guangyu Sun, Jiayoon Ru, Le Ye, Ru Huang
+     * 2022 IEEE International Solid- State Circuits Conference (ISSCC), 2022
+
+  ### C16 - [ISSCC'22]. Single-Mode CMOS 6T-SRAM Macros With Keeper-Loading-Free Peripherals and Row-Separate Dynamic Body Bias Achieving 2.53 fW/bit Leakage for AIoT Sensing Platforms
+     * Yihan Zhang, Chang Xue, Xiao Wang, Tianyi Liu, Jihang Gao, Peiyu Chen, Jinguang Liu, Linan Sun, **Linxiao Shen**, Jiayoon Ru, Le Ye, Ru Huang
+     * 2022 IEEE International Solid- State Circuits Conference (ISSCC), 2022
+
+* 2021
+
+  ### C15 - [ISSCC'21]. 10.4 A 3.7 mW 12.5 MHz 81dB-SNDR 4th-order CTDSM with single-OTA and 2nd-order NS-SAR
+     * Wei Shi, Jiaxin Liu, Abhishek Mukherjee, Xiangxing Yang, Xiyuan Tang, **Linxiao Shen**, Wenda Zhao, Nan Sun
+     * 2021 IEEE International Solid- State Circuits Conference (ISSCC), 2021
+
+  ### C14 - [ISSCC'21]. 27.7 A 79dB-SNDR 167dB-FoM Bandpass ΔΣ ADC Combining N-Path Filter with Noise-Shaping SAR
+     * **Linxiao Shen**, Zijie Gao, Xiangxing Yang, Wei Shi, Nan Sun
+     * 2021 IEEE International Solid- State Circuits Conference (ISSCC), 2021
 
 * 2020
 
@@ -121,7 +149,7 @@ Conference Papers
      * IEEE international Solid-State Circuits Conference (ISSCC), 2019
 
   ### C8 - [VLSI sym.'19]. An Energy-Efficient Comparator with Dynamic Floating Inverter Pre-Amplifier
-     * Xiyuan Tang, Begum Kasap, **Linxiao Shen**, Xiangxing Yang, Wei Shi, and Nan Sun
+     * Xiyuan Tang, Begum Kasap, **Linxiao Shen (Corresponding)**, Xiangxing Yang, Wei Shi, and Nan Sun
      * 2019 IEEE Symposium on VLSI Circuits, Kyoto, 2019
 
   ### C7 - [DAC'19]. WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout
