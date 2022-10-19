@@ -16,6 +16,32 @@ author_profile: true
 Journal Papers
 ======
 
+* 2022
+  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
+     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+
+  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
+     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+
+  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
+     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+
+  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
+     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+
+  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
+     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+
+  ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
+     * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
+     * Accepted to IEEE Journal of Solid-State Circuits (JSSC), **(ISSCC invited)**.
+
+
 * 2020
   ### J9 - [JSSC'20]. A Two-Step ADC with a Continuous-Time SAR Based First Stage
      * **Linxiao Shen**, Yi Shen, Zhelu Li, Wei Shi, Xiyuan Tang, Shaolan Li, Wenda Zhao, Mantian Zhang, Zhangming Zhu, and Nan Sun
