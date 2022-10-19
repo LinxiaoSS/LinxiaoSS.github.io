@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 
-* 10/2022: **Our paper about High-performance CDC is accepted to ISSCC 2022! Congratulations to Jihang! We will present the paper in Feb. 2022, and welcome to our Session! **
+* 10/2022: **Our paper about High-performance CDC is accepted to ISSCC 2022! Congratulations to Jihang! We will present the paper in Feb. 2022, and welcome to our Session!**
 
 * 09/2022: Welcome Guoqiang Li to join Shen Lab! Cheers!
 
