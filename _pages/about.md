@@ -8,19 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Linxiao Shen received his Ph.D. degree in the Electrical and Computer Engineering Department of the University of Texas at Austin in 2019. Dr. Shen received the B.S. degree from Fudan University, Shanghai, China in 2014. He was an analog/mixed-signal designer in Silicon Laboroteris Inc., mainly working on ultra-low-power MCU and its peripherals, including ultra-low power on-chip clock generation, ultra-low power power management circuits and systems design. He is now an assistant professor in Peking University. 
+Welcome to Prof. Linxiao Shen's research group at the Peking University. Our research focuses on:
 
-Dr. Shen is recipient of the 2018-2019 IEEE Solid-State Circuits Society Predoctoral Achievement Award, 2019-2020 UT Austin Graduate Continuing Fellowship, 2012 Chinese National scholarship, and 2011 Samsung Fellowship. He has served as an active reviewer for IEEE Journal of Solid State Circuit (JSSC), IEEE Transactions on Circuits and System I, Regular Papers (TCAS-I), IEEE Transactions on Circuits and System II: Express Briefs (TCAS-II), IEEE Transactions on Very-Large Scale Integrated Systems (TVLSI), Microelectronics Journal (MEJ), and IEEE International Symposium on Circuits and Systems (ISCAS). 
-
+Analog, mixed-signal, and RF integrated circuits;
+High-Performance Analog Front-Ends for AIoT Sensor Applications
+Low-cost AIoT systems;
+Analog/Mixed-Signal Integrated Circuit Design and Layout Automation
+I am an assistant professor in the School of Integrated Circuits at Peking University. Previously, I worked as an analog/mixed-signal designer in Silicon Laboroteris Inc., mainly working on ultra-low-power MCU (Micro-Controller) and its peripherals, including ultra-low power on-chip clock generator, ultra-low-power power management circuits and systems design. I received the Ph.D. degree in the Electrical and Computer Engineering Department of the University of Texas at Austin in 2019, advised by Prof. Nan Sun and the B.S. degree (Ranked 1st) from Fudan University, Shanghai, China in 2014. I am a recipient of the 2018-2019 IEEE Solid-State Circuits Society Predoctoral Achievement Award, 2019-2020 UT Austin Graduate Continuing Fellowship, etc. 
 
 Research Interests
 ======
 
 Welcome to Linxiao Shen’s homepage. My research focuses on:
-* Ultra-low-power sensor interface circuits and systems design
+* Highly energy-efficient sensor interface circuits and systems design
 * High-performance analog and mixed-signal circuits design
 * Power-management integrated circuits (PMICs) design for system-on-chip module
 * Ultra-high-speed transceiver, optical coherent transceiver, high-speed ADC
+
+
+**I am always looking for motivated undergraduate and graduate students with background in analog/digital/mixed-signal integrated circuit, electrical engineering, mathematics, statistics, and/or related areas, working on research fields of**
+
+* High-performance ADC design (focus on speed, resolution, and power efficiency)
+* High-performance analog front-ends with sensor co-design/integration
 
 
 News
