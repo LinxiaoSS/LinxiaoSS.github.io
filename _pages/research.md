@@ -7,4 +7,4 @@ author_profile: true
 
 <br>
 
-Coming soon!
+Pleae visit SHEN LAB website in http://scholar.pku.edu.cn/linxiaoshen/
