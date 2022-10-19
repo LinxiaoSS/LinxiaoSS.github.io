@@ -6,6 +6,17 @@ author_profile: true
 ---
 
 <br>
+* 10/2022: **Our paper "" is accepted to ISSCC 2022! Congratulations to Jihang! We will present the paper in Feb. 2022, and welcome to our Session! **
+
+* 01/2022: Our paper "" is accepted to ISCAS 2022! Congrats Xinhang! 
+
+* 01/2022: Welcome Jiajia Cui to join Shen Lab! Cheers!
+
+* 09/2021: Welcome Xinhang Xu and Jihang Gao to join Shen Lab! Cheers!
+
+* 06/2021: Welcome Siyuan Ye to join Shen Lab! http://scholar.pku.edu.cn/linxiaoshen
+
+* 03/2021: **Dr. Shen Joined Peking University as an Assistant Professor (Tenured Track)! Cheers**
 
 * 12/2019: The work of **High power-efficiency comparator** has been accepted to JSSC! 
 
