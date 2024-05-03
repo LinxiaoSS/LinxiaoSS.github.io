@@ -46,6 +46,10 @@ News
 
 * 02/2023: Our group has 1 paper published at **ISSCC 2023**! Congrats to Mr. Jihang Gao!
 
+* 03/2021: **Dr. Linxiao Shen has started SHEN LAB at Peking University! Cheers!!**
+
+* 02/2021: Dr. Shen has 1 paper published at **ISSCC 2021**!
+
 * 12/2019: The work of **High power-efficiency comparator** has been accepted to JSSC! 
 
 * 10/2019: Two collaborated works have been accepted to **2020 ISSCC**, cheeer!
