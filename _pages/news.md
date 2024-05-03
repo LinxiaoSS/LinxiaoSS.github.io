@@ -7,7 +7,15 @@ author_profile: true
 
 <br>
 
-* 10/2022: **Our paper about High-performance CDC is accepted to ISSCC 2022! Congratulations to Jihang! We will present the paper in Feb. 2022, and welcome to our Session!**
+* 04/2024: Congratulations to **Mr. Jie Li** for winning the **2024 CICC Outstanding Student Paper Award**! The paper is titled “An 8b 1GS/s SAR ADC with Metastability-based Resolution/Speed Enhancement and Self-tuning delay Achieving 47.2dB SNDR at Nyquist Input”.
+
+* 02/2024: Congratulations to **Mr. Jihang Gao** for winning the **2023 IEEE ISSCC The Anathan Chandrakasan Award for Distinguished-Technical Paper**! The paper is titled “A 7.9 fJ/conversion-Step and 37.12 aFrms pipelined-SAR capacitance-to-digital converter with kT/C noise cancellation and incomplete-settling based correlated level shifting”.
+
+* 02/2024: **Mr. Zhuoyi Chen (Undergraduate Student in Senior year)** presented his work on Pipelined-SAR at ISSCC 2024, CA, USA. The paper is titled “A 182.3dB FoMs 50MS/s Pipelined-SAR ADC using Cascode Capacitively Degenerated Dynamic Amplifier and MSB Pre-Conversion Technique”.
+
+* 10/2023: Our group has 3 paper accepted at **ISSCC 2024**! Congrats to Mr. Siyuan Ye, Mr. Zhuoyi Chen, and Ms. Xinhang Xu! We will present the paper in Feb. 2024, and welcome to our Sessions!
+
+* 10/2022: Our group has 1 paper about High-performance CDC accepted to **ISSCC 2023**! Congratulations to Mr. Jihang Gao! We will present the paper in Feb. 2023, and welcome to our Session!
 
 * 09/2022: Welcome Guoqiang Li to join Shen Lab! Cheers!
 
