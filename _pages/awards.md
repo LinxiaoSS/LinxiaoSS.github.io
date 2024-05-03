@@ -9,6 +9,8 @@ author_profile: true
 
 Dr. Linxiao Shen has received the following awards, honors, and recognitions:
 
+  * **CICC Outstanding Student Paper Award (Corresponding Author), IEEE, 2024**
+  * **ISSCC the Anathan P. Chandraksan Distinguished-Technical-Paper Award (Corresponding Author), IEEE ISSCC, 2023**
   * Graduate Continuing Fellowship, UT Austin, 2019
   * Predoctoral Achievement Award, IEEE Solid-State Circuit Society (SSCS), 2019
   * Ranked 1st for undergraduate study, Fudan, 2010-2014
